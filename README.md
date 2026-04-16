@@ -91,4 +91,4 @@ This project demonstrates how Python can automate the process of **reading, anal
 
 ### 📌 Output
 
-<img width="798" height="770" alt="Image" src="https://github.com/user-attachments/assets/aebb3a19-b37e-4d7f-8643-80d4dce7ff09" />
+<img width="545" height="439" alt="Image" src="https://github.com/user-attachments/assets/a61c5ba6-1e6c-4511-b0a9-20ef8edc5e44" />
