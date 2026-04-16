@@ -89,6 +89,6 @@ Automated_Analysis_Report.pdf
 
 This project demonstrates how Python can automate the process of **reading, analyzing, and converting data into meaningful reports**, making it a practical solution for real-world data workflows.
 
-### Output
+### 📌 Output
 
-
+<img width="798" height="770" alt="Image" src="https://github.com/user-attachments/assets/aebb3a19-b37e-4d7f-8643-80d4dce7ff09" />
